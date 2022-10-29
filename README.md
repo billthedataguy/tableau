@@ -1,6 +1,3 @@
-# tableau
-Showcase of Tableau Visualizations on Citibike Datasets
-
 # Citibike 2022 Middle of Winter vs. Middle of Summer Analysis
 
 ## William Vann 
