@@ -34,5 +34,3 @@ While in general most of the busiest stations are in the Midtown and Downtown se
 ```JANUARY 2022 CITIBIKE.twbx```
 
 ```JULY 2022 CITIBIKE.twbx```
-
-```Citibike 2022 Middle of Winter vs. Middle of Summer Analysis.md```
